@@ -4,7 +4,7 @@ For the web scraped text in data.zip folder , Create a Topic Model (using LDA) a
 
 Your output dataframe should be having the 3 fields below:
 
-**Web page file | Tokenized Text | Topics Distribution **
+**Web page file** | **Tokenized Text** | **Topics Distribution**
 
 ----------------------------
 *Suggested Approach* 
